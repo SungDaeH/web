@@ -20,3 +20,11 @@ div{
 #BTS{ /*아이디 셀렉터 */
   color: red;
 }
+tr:hover{
+  background-color: antiquewhite;
+  color: black;
+}
+#BTN{
+  background-color: darkblue;
+  color: antiquewhite;
+}
