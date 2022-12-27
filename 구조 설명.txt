@@ -1,0 +1,8 @@
+1. 폴더 구성
+  CSS
+  JS 또는 JAVASCRITPT
+  Images
+2. html 은 web 폴더에 위치
+3. 절대경로 / 상대경로
+  1) 절대경로 C:/user/aaa/documents/web/CSS
+  2) 상대경로 - 현재작업 폴더 . 부모폴더 .. 자식폴더 ./폴더이름(CSS)
