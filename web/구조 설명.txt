@@ -6,3 +6,13 @@
 3. 절대경로 / 상대경로
   1) 절대경로 C:/user/aaa/documents/web/CSS
   2) 상대경로 - 현재작업 폴더 . 부모폴더 .. 자식폴더 ./폴더이름(CSS)
+
+  흔한 에러 1
+  html 아래에 스크립트를 적어야 하는데
+  js 조작을 먼저 하면 오류가 난다.
+  오류 확인은 콘솔창에서 몇번 라인 오류인지 확인 가능
+    -흔한 오류 메세지
+    -of null:js
+  대소문자 오류
+  getElementByID(O) getElementByid(X)
+  
